@@ -1,6 +1,7 @@
 fastapi
 
-
+langchain
+langchain-huggingface
 langgraph
 
 dotenc
